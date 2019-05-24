@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.8.2
+FROM gcr.io/kubernetes-helm/tiller:canary
 MAINTAINER Mingming Li <21374618@qq.com>
